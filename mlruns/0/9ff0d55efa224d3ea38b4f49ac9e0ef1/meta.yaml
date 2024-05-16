@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Kyphosis-disease-project/mlruns/0/9ff0d55efa224d3ea38b4f49ac9e0ef1/artifacts
+end_time: 1715868574820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff0d55efa224d3ea38b4f49ac9e0ef1
+run_name: dashing-snail-284
+run_uuid: 9ff0d55efa224d3ea38b4f49ac9e0ef1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715868574812
+status: 3
+tags: []
+user_id: gitpod

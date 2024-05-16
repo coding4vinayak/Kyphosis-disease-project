@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Kyphosis-disease-project/mlruns/0/26434caf1e194c6d90c5814c53727c40/artifacts
+end_time: 1715868897218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26434caf1e194c6d90c5814c53727c40
+run_name: treasured-skink-126
+run_uuid: 26434caf1e194c6d90c5814c53727c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715868897209
+status: 3
+tags: []
+user_id: gitpod

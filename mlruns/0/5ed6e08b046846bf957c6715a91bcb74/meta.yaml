@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/Kyphosis-disease-project/mlruns/0/5ed6e08b046846bf957c6715a91bcb74/artifacts
+end_time: 1715868791625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed6e08b046846bf957c6715a91bcb74
+run_name: skillful-shrimp-706
+run_uuid: 5ed6e08b046846bf957c6715a91bcb74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715868791613
+status: 4
+tags: []
+user_id: gitpod

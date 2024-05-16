@@ -3,3 +3,6 @@ joblib
 notebook
 pandas
 scikit-learn
+seaborn
+matplotlib
+matplotlib
